@@ -2,7 +2,6 @@
 
 
 This is a PyTorch implementation of TVGCN in the paper entitled "TVGCN: Time-varying Graph Convolutional Networks Based on Attention for Multi-features Spatial-Temproal Series Forecasting"
-The paper is currently under review for PAAA.
 
 Using a novel time-varying graph convolutional network (TVGCN) model based on attention for multi-features spatio-temporal series prediction, also, using absolute time embedding to improve the accuracy.
 
