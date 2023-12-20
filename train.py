@@ -8,7 +8,6 @@ from engine import trainer
 import sys
 import configparser
 
-
 parser = argparse.ArgumentParser()
 parser.add_argument('--device', type=str, default='cuda:0', help='')
 parser.add_argument('--data', type=str, default='./data/toy/timeini',
