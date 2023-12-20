@@ -1,9 +1,9 @@
-# TVGCN: Time-varying Graph Convolutional Networks Based on Attention for Multi-features Spatial-Temproal Series Forecasting
+# TVGCN: Time-varying Graph Convolutional Networks for Multivariate and Multi-feature Spatio-temporal Series Prediction
 
 
-This is a PyTorch implementation of TVGCN in the paper entitled "TVGCN: Time-varying Graph Convolutional Networks Based on Attention for Multi-features Spatial-Temproal Series Forecasting"
+This is a PyTorch implementation of TVGCN in the paper entitled "TVGCN: Time-varying Graph Convolutional Networks for Multivariate and Multi-feature Spatio-temporal Series Prediction"
 
-Using a novel time-varying graph convolutional network (TVGCN) model based on attention for multi-features spatio-temporal series prediction, also, using absolute time embedding to improve the accuracy.
+Using a novel time-varying graph convolutional network (TVGCN) model based on attention at all stages (including training, validating and testing stage) for multi-features spatio-temporal series prediction, also, using absolute time embedding to improve the accuracy.
 
 
 #### Datasets
