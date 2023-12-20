@@ -7,7 +7,6 @@ import torch
 from scipy.sparse import linalg
 import csv
 import sys
-
 class DataLoader(object):
     def __init__(self, xs, ys, batch_size, pad_with_last_sample=True):
         """
