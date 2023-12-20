@@ -9,7 +9,6 @@ import numpy as np
 import os
 import pandas as pd
 
-
 def generate_graph_seq2seq_io_data(
         df, x_offsets, y_offsets, scaler=None
 ):
