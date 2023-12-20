@@ -7,8 +7,6 @@ import numpy as np
 
 import pandas as pd
 
-
-
 if __name__ == "__main__":
 	data = pd.read_csv("./toy.csv")
 	np.savez("./toy", data)
